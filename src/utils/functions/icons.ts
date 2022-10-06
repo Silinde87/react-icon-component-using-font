@@ -1,5 +1,4 @@
 import { css } from 'styled-components';
-import selection from './../../assets/fonts/selection.json';
 
 export const iconFont = css`
 	i {
